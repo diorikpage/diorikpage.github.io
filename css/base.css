@@ -1,0 +1,26 @@
+.f-clear:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.f-clear:before{
+	content: "";
+	display: table;
+	clear: both;
+}
+.l-container:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.l-container:before{
+	content: "";
+	display: table;
+	clear: both;
+}
+.l-container{
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 15px;
+
+}
